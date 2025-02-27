@@ -1,2 +1,2 @@
-git clone https://github.com/username/repository.git
-cd repository
+pyrogram
+tgcrypto
